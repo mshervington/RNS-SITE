@@ -3,7 +3,7 @@
 }
 
 p {
-  display:inline;
+  display:flex;
   padding-left: 50px;
   text-align: justify;
 }
