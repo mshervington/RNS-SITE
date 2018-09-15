@@ -2,3 +2,8 @@
 body, html {
 
 }
+
+p {
+  display:inline;
+  padding-left: 25px;
+}
