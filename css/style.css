@@ -4,6 +4,5 @@ body, html {
 }
 
 div, p {
-  display:inline;
   padding-left: 25px;
 }
