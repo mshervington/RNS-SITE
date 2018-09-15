@@ -3,7 +3,7 @@ body, html {
 
 }
 
-p {
+div, p {
   display:inline;
   padding-left: 25px;
 }
