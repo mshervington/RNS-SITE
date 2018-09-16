@@ -7,3 +7,9 @@
   padding-left: 50px;
   text-align: justify;
 }*/
+
+.col-3 {
+  -ms-flex: 0 0 25%;
+  flex: 0 0 25%;
+  max-width: none;
+}
